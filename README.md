@@ -15,3 +15,7 @@ The site includes a public trip itinerary and confirmation numbers.
 ## Version 4 update
 - Added Thirty Eight Whitefish to Dining.
 - Added direct Eat & Drink and Google Maps links.
+
+
+## Version 5 update
+- Updated Thirty Eight Whitefish with the official homepage and current venue description.
