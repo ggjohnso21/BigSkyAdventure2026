@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jm-big-sky-v6-fresh';
+const CACHE_NAME = 'jm-big-sky-v7';
 const ASSETS = [
   './',
   './index.html',
